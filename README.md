@@ -16,7 +16,7 @@ Xin chào! Tôi là một **nhà sáng tạo kỹ thuật số** đam mê biến
 - 💻 **Lập trình viên & Nhà thiết kế giải pháp**: Yêu thích việc tạo ra các sản phẩm đẹp mắt và hiệu quả.
 - 🌍 **Tín đồ công nghệ**: Luôn săn lùng những xu hướng mới trong AI, Web Dev, và Cloud.
 - 🎯 **Sứ mệnh**: Xây dựng công nghệ giúp cuộc sống tốt đẹp hơn.
-- ☕ **Ngoài lề**: Sở thích cá nhân sục cặc xem sếch bla bla.
+- ☕ **Ngoài lề**: Sở thích cá nhân xem sếch gây.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBnZzd3cDlvbXZtZ3FucDVkMTU5ZzFxaGYzbTBhbW5mYXgycGZtMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3mlE7uhX8KFgEmY/giphy.gif" alt="Coding Animation" width="250">

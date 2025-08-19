@@ -1,4 +1,4 @@
-# 🌌 Chào mừng đến với Vũ trụ GitHub của Nguyen Hoang! 🚀
+# 🌌 Chào mừng đến với Vũ trụ GitHub của NguyenHoangdev1z! 🚀
 
 Xin chào! Tôi là một **nhà sáng tạo kỹ thuật số** đam mê biến ý tưởng thành hiện thực qua mã nguồn. Đây là nơi tôi chia sẻ những dự án đầy cảm hứng, hành trình học tập và cả những khoảnh khắc sáng tạo. Hãy cùng bắt đầu chuyến phiêu lưu này nhé! ✨
 
@@ -16,7 +16,7 @@ Xin chào! Tôi là một **nhà sáng tạo kỹ thuật số** đam mê biến
 - 💻 **Lập trình viên & Nhà thiết kế giải pháp**: Yêu thích việc tạo ra các sản phẩm đẹp mắt và hiệu quả.
 - 🌍 **Tín đồ công nghệ**: Luôn săn lùng những xu hướng mới trong AI, Web Dev, và Cloud.
 - 🎯 **Sứ mệnh**: Xây dựng công nghệ giúp cuộc sống tốt đẹp hơn.
-- ☕ **Ngoài lề**: Sở thích cá nhân xem sếch gây.
+- ☕ **Ngoài lề**: Sở thích cá nhân....
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBnZzd3cDlvbXZtZ3FucDVkMTU5ZzFxaGYzbTBhbW5mYXgycGZtMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3mlE7uhX8KFgEmY/giphy.gif" alt="Coding Animation" width="250">
@@ -52,12 +52,12 @@ Xin chào! Tôi là một **nhà sáng tạo kỹ thuật số** đam mê biến
 ## 📊 Chân dung qua số liệu
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=nebula&hide_border=true" alt="GitHub Stats" style="border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=nebula&hide_border=true" alt="Top Languages" style="border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=concuchaba2912&show_icons=true&theme=nebula&hide_border=true" alt="GitHub Stats" style="border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=concuchaba2912&layout=compact&theme=nebula&hide_border=true" alt="Top Languages" style="border-radius: 10px;">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=nebula&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=concuchaba2912&theme=nebula&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;">
 </p>
 
 ---
@@ -75,7 +75,7 @@ Xin chào! Tôi là một **nhà sáng tạo kỹ thuật số** đam mê biến
 - 🤝 **Hợp tác**: Luôn mở lòng cho các cơ hội thú vị.
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" alt="Visitor Badge">
+  <img src="[https://visitor-badge.laobi.icu/badge?page_id=concuchaba2912.concuchaba2912]" alt="Visitor Badge">
 </p>
 
 ---
@@ -89,5 +89,5 @@ Hãy để lại một **⭐** cho các dự án bạn yêu thích và theo dõi
 </p>
 
 <p align="center">
-  <i>"Code không chỉ là công việc, mà là cách chúng ta kể câu chuyện của mình." - Nguyen The Hoang</i>
+  <i>"Code không chỉ là công việc, mà là cách chúng ta kể câu chuyện của mình." - nhdz</i>
 </p>

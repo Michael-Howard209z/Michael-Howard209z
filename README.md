@@ -1,4 +1,4 @@
-# 🌌 Welcome to the GitHub Universe NguyenHoangdev1z! 🚀
+#  Welcome to the GitHub Universe NguyenHoangdev1z! 
 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/track/6qyK9SquQSHvNzrGHEUYNV)
@@ -32,14 +32,14 @@ Hello! I'm a **digital creator** who loves to bring ideas to life through code. 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,git,docker,mongodb" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,git,docker,mongodb,ae" alt="Skills">
   </a>
 </p>
 
-- **Programming Languages**: Python, JavaScript, TypeScript.
+- **Programming Languages**: Python, JavaScript.
 - **Framework & Tools**: React, Node.js, Django, Flask, Docker, Git.
-- **Other Specialties**: RESTful API Design, Database (PostgreSQL, MongoDB), CI/CD.
-- **In Progress**: Python, Nodejs, C#.
+- **Other Specialties**: Database (PostgreSQL, MongoDB), CI/CD.
+- **In Progress**: Python, Nodejs.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20with%20Love-%E2%9D%A4%EF%B8%8F-ff69b4?style=flat-square" alt="Code with Love">
@@ -55,10 +55,7 @@ Hello! I'm a **digital creator** who loves to bring ideas to life through code. 
 
 ## 📊 Portrait through data
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Michael-Howard209z&show_icons=true&theme=nebula&hide_border=true" alt="GitHub Stats" style="border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Howard209z&layout=compact&theme=nebula&hide_border=true" alt="Top Languages" style="border-radius: 10px;">
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Howard209z&theme=nebula&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;">
@@ -79,7 +76,7 @@ Hello! I'm a **digital creator** who loves to bring ideas to life through code. 
 - 🤝 **Collaboration**: Always open to exciting opportunities.
 
 <p align="center">
-  <img src="[https://visitor-badge.laobi.icu/badge?page_id=Michael-Howard209z.Michael-Howard209z]" alt="Visitor Badge">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Michael-Howard209z.Michael-Howard209z" alt="Visitor Badge">
 </p>
 
 ---

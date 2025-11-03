@@ -89,6 +89,5 @@ Leave a **⭐** for your favorite projects and follow so you don't miss out on n
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBnZzd3cDlvbXZtZ3FucDVkMTU5ZzFxaGYzbTBhbW5mYXgycGZtMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QMHoU66sBXqqLqYvGO/giphy.gif" alt="Rocket Animation" width="300">
 </p>
 
-<p align="center">
-  <i>"Code không chỉ là công việc, mà là cách chúng ta kể câu chuyện của mình." - nhdz</i>
-</p>
+
+

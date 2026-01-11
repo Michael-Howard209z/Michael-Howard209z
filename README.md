@@ -57,9 +57,8 @@ Hello! I'm a **digital creator** who loves to bring ideas to life through code. 
 
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Howard209z&theme=nebula&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;">
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Michael-Howard209z)](https://git.io/streak-stats)
+
 
 ---
 

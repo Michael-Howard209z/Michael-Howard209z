@@ -66,10 +66,10 @@ Hello! I'm a **digital creator** who loves to bring ideas to life through code. 
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="mailto:nguyenhoang121315@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://facebook.com/nguoiyeucuakhue"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/Michael-Howard209z"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" /></a>
+  <a href="https://discord.com/users/1373319972981444751"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" /></a>
+  <a href="https://t.me/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" /></a>
+  <a href="mailto:nguyenhoang121315@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" /></a>
 </p>
 
 - 💬 **Ping me**: I'm happy to chat about tech, projects, or any crazy ideas!
@@ -88,6 +88,18 @@ Leave a **⭐** for your favorite projects and follow so you don't miss out on n
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBnZzd3cDlvbXZtZ3FucDVkMTU5ZzFxaGYzbTBhbW5mYXgycGZtMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QMHoU66sBXqqLqYvGO/giphy.gif" alt="Rocket Animation" width="300">
 </p>
+<p align="center">
+  <a href="https://kotlinlang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp3.svg" /></a>
+  <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" /></a><br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" /></a>
+  <a href="https://nodejs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" /></a>
+</p>
 
+<hr>
 
 

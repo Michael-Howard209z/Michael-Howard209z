@@ -1,8 +1,9 @@
 #  Welcome to the GitHub Universe NguyenHoangdev1z! 
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/track/6qyK9SquQSHvNzrGHEUYNV)
+  [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
 </div>
+
 
 Hello! I'm a **digital creator** who loves to bring ideas to life through code. This is where I share my inspiring projects, learning journeys, and creative moments. Let's start this adventure together! ✨
 

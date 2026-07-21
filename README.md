@@ -1,11 +1,11 @@
-#  Welcome to the GitHub Universe NguyenHoangdev1z! 
+#  Welcome to the GitHub Universe NguyenHoang
 
 &nbsp;<div align="center">
   [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
 </div>
 
 
-Hello! I'm a **digital creator** who loves to bring ideas to life through code. This is where I share my inspiring projects, learning journeys, and creative moments. Let's start this adventure together! ✨
+Hello! I'm a **digital creator** who loves to bring ideas to life through code. This is where I share my inspiring projects, learning journeys, and creative moments. Let's start this adventure together! 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Universe!;Let's+build+something+amazing!" alt="Typing SVG">
@@ -72,8 +72,8 @@ Hello! I'm a **digital creator** who loves to bring ideas to life through code. 
   <a href="mailto:nguyenhoang121315@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" /></a>
 </p>
 
-- 💬 **Ping me**: I'm happy to chat about tech, projects, or any crazy ideas!
-- 🤝 **Collaboration**: Always open to exciting opportunities.
+- **Ping me**: I'm happy to chat about tech, projects, or any crazy ideas!
+- **Collaboration**: Always open to exciting opportunities.
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Michael-Howard209z.Michael-Howard209z" alt="Visitor Badge">
